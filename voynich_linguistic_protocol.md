@@ -1,10 +1,6 @@
 # Linguistic Protocol
 Linguistic and Cryptographic Protocol of the Voynich Manuscript Author: Todd A. Vollmer (tvollmer@gmail.com) Note: This work builds upon and incorporates the fundamental research and "Industrial Manual" hypothesis pioneered by Artyom Lukichev (the "Voynich Engineer").
 
-## 0.  SYSTEM  HANDOFF  PROMPT  (FOR  SESSION
-
-CONTINUITY) CONTEXT: We are performing an industrial reconstruction of Beinecke MS 408 (Voynich Manuscript). CORE THESIS: It is an encrypted 15th-century laboratory manual for textile dyeing, saponification, and reagent production. KEY IDENTIFIERS: "Nymphs" are personified fibers (Linen/Wool) or chemical reactions. "Zodiacs" are seasonal production schedules. "116v" is a Master Dyer's Certification. "Green Lion" (73r) is the Acid Leaching process. LINGUISTIC KEY: Alpine Trade-Pidgin (Germanic/Italian/Latin) using a "Verbose Cipher." PREFIXES: o- denotes Noun/Object; y- denotes Verb/Action; qo- denotes Instrumental (Using Tool/Reagent). RECONSTRUCTIONS: We have bridged "Sabotaged Gaps" at 91-92 (Mother Lye Ratios), 97-98 (Acid/Vitriol Formulas), and 109-110 (Master Index). We have identified the site as "Beryn" (Börne/Spring) in the South Tyrol corridor. CURRENT STATE: Phase 3 Synthesis Complete. Visual Audits of Folios 84r, 116v, 19v-20r, and 2v-3r are integrated.
-
 ## 1.  RESEARCH  ABSTRACT
 
 This protocol defines the linguistic structure of the Voynich Manuscript as a functional trade-pidgin utilized by 15th-century industrial guilds. The script is identified as a "Verbose Cipher" designed for data compression and trade secrecy.
