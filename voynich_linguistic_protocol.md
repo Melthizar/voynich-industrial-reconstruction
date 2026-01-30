@@ -9,5 +9,4 @@ This document is the Master Decryption Matrix for the Voynich Manuscript.
 *   **Root Dictionary:** The identified industrial roots for chemicals (e.g., Kal for Alkali, Bla for Woad/Blue).
 *   **Syntax:** The specific thermal and duration markers (-ee, -eee) used to denote boiling and pressure.
 
----
-*Note: This file is a placeholder for the transcription of `Linguistic Protocol.pdf`.*
+

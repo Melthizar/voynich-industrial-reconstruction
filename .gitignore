@@ -10,3 +10,7 @@ Desktop.ini
 # Editor
 .vscode/
 .idea/
+
+# Local Planning
+TODO.md
+plan.md
