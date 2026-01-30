@@ -35,7 +35,7 @@ FOOLED HISTORY The "Bricked" Manual Hypothesis This reconstruction demonstrates 
 
 <!-- Page 2 -->
 ---
-● The Goat: Faint drawing confirms Tallow ( ) source for Oladabas . 9.3 Folios 19v - 20r (The Botanical Toolset) ● Folio 20r (Teasel): Dipsacus fullonum . Used for mechanical carding ( ). ● Folio 19v (Oak Gall): Source of Tannic Acid ( ) for mordanting. 9.4 Folios 2v - 3r (The Stabilizers) ● Folio 2v (Water Lily): Source of Mucilage ( ) for thickening. ● Folio 3r (The Scaly Plant): Diagram of Layered Alum Crystallization ( ). <!-- PROJECT LOG & OPERATIONAL CONTINUITY DATA DO NOT DELETE: RECOVERY DATA FOR SYSTEM SYNC PHASE 1: Identification of Industrial Manual Lens. PHASE 2: Reconstruction of "Ghost Folios" (91-92, 109-110). PHASE 3: Synthesis of Beryn Site and Reagent Catalog. COMPLETED: Visual Forensic Audit of 84r, 116v, 19v-20r, 2v-3r. STATUS: SESSION PAUSED. NEXT STEPS: 1. Deep dive into Alpine Guild Charters (Brixen/Hall). 2. SOP-006: Alum Refining Process. -->
+● The Goat: Faint drawing confirms Tallow ( ) source for Oladabas . 9.3 Folios 19v - 20r (The Botanical Toolset) ● Folio 20r (Teasel): Dipsacus fullonum . Used for mechanical carding ( ). ● Folio 19v (Oak Gall): Source of Tannic Acid ( ) for mordanting. 9.4 Folios 2v - 3r (The Stabilizers) ● Folio 2v (Water Lily): Source of Mucilage ( ) for thickening. ● Folio 3r (The Scaly Plant): Diagram of Layered Alum Crystallization ( ). 
 
 <!-- Page 3 -->
 ---

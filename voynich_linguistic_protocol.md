@@ -20,15 +20,7 @@ This protocol defines the linguistic structure of the Voynich Manuscript as a fu
 Lex Law / Method Ut Out / Discharge Met Measure / Quantity* Pan Batch / Panel* Rec Recipe / Record* Nom Name / Label* Sep Separate / Sort* Col Color / Pigment* Cap Hood / Condenser* Iso Insulate / Scale* Tan Tannin / Gall* Car Card / Tease / Nap* Muc Mucilage / Thickener* Lay Layer / Stratify* 2.3 Thermal and Duration Markers ● -e : Ambient Warmth ( Te ). ● -ee : High Heat / Boiling ( Kee ). ● -eee : Maximum Intensity / Pressure / Distillation.
 
 3.  CHRONOLOGICAL  SCHEDULING  (Industrial  
-Calendar) ● Aries (Folio 71r): Tallow Rendering (Fat processing). ● Taurus (Folio 70v): Mineral fixation and mordanting. ● Cancer (Folio 70v extension): "The Reddening" (High-heat madder boiling). ● Virgo: Fiber harvest and flax preparation. <!-- INTERNAL ANALYTICAL WORKFLOW & METADATA DO NOT DELETE: RECOVERY DATA FOR SYSTEM SYNC
-
-1.  CONTEXT  PRESERVATION:  Always  reference  the  Matrix  before  proposing  new  word  
-candidates.
-
- 2.  VISUAL  GROUNDING:  Every  decryption  must  match  the  mechanical  drawing  in  the  folio.  3.  GRAMMAR  HIERARCHY:  Identify  Prefix  (o-/y-)  ->  Identify  Suffix  (-ee)  ->  Isolate  Root.  4.  NO  HALLUCINATION:  If  a  word  does  not  match  the  Matrix,  flag  as  "Candidate  Root." 
-<!-- Page 3 -->
----
-Current Status: SESSION PAUSED. Linguistic Matrix stable at 96% confidence. -->
+Calendar) ● Aries (Folio 71r): Tallow Rendering (Fat processing). ● Taurus (Folio 70v): Mineral fixation and mordanting. ● Cancer (Folio 70v extension): "The Reddening" (High-heat madder boiling). ● Virgo: Fiber harvest and flax preparation. 
 
 <!-- Page 4 -->
 ---
