@@ -1,5 +1,7 @@
 # **Voynich Manuscript Industrial Reconstruction**
 
+> **Disclaimer:** This is a fun project exploring an industrial hypothesis for the Voynich Manuscript. It was created with the assistance of AI tools, including Google Gemini and ChatGPT.
+
 **Lead Researcher:** Todd A. Vollmer
 
 **Status:** Phase 3 Synthesis (Completed)
