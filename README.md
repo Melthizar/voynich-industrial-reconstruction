@@ -39,7 +39,7 @@ The Master Decryption Matrix. This document defines:
 * **Root Dictionary:** The identified industrial roots for chemicals (e.g., Kal for Alkali, Bla for Woad/Blue).
 * **Syntax:** The specific thermal and duration markers (-ee, -eee) used to denote boiling and pressure.
 
-### **2. [Technical Analysis & Reconstruction](voynich_technical_analysis.md)**
+### **2. [Technical Analysis & Reconstruction](Technical%20Analysis%20and%20Reconstruction.pdf)**
 
 The comprehensive operational findings. This document includes:
 
