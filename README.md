@@ -59,6 +59,7 @@ The comprehensive operational findings. This document includes:
 ## **Key Findings**
 
 * **The "Nymphs":** Identified not as biological figures, but as personifications of **Fiber Bundles** (Linen/Wool) and chemical states within vats.
+* **The "Constructor" Principle:** The botanical drawings are **Infographic Assembly Diagrams** (Root A + Flower B = Mixture C), not biological species.
 * **The "Zodiac":** Identified as an **Industrial Production Schedule** linked to seasonal water levels and temperature control (e.g., Aries = Tallow Rendering).
 * **Folio 116v:** Decoded as the **Master Dyer's Certification** and Oath, written in a polyglot "Michitonese" shorthand.
 * **"Bricked" Security:** The manuscript was rendered unsolvable by the physical removal of the specific "Ratio Pages" that contained the chemical proportions, acting as a 15th-century form of DRM (Digital Rights Management).
@@ -70,6 +71,6 @@ This project utilizes a **Visual-Linguistic Cross-Reference** methodology. Inste
 ## **Credits & Acknowledgments**
 
 *   **Todd A. Vollmer:** Lead Researcher, Industrial Reconstruction, and Protocol Synthesis.
-*   **Artem Tishin ([u/Arti_Voynich_Eng](https://www.reddit.com/user/Arti_Voynich_Eng/) | [http://www.youtube.com/@VoynichEngineer](http://www.youtube.com/@VoynichEngineer)):** Recognized for the foundational hypothesis regarding the "Constructor Principle" and the identification of Saponification visuals.
+*   **Artem Tishin ([u/Arti_Voynich_Eng](https://www.reddit.com/user/Arti_Voynich_Eng/) | [https://www.youtube.com/@VoynichEngineer](https://www.youtube.com/@VoynichEngineer)):** Recognized for the foundational hypothesis regarding the "Constructor Principle" and the identification of Saponification visuals.
 
 

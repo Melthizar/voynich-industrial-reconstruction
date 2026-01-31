@@ -3,11 +3,21 @@
 **Linguistic and Cryptographic Protocol of the Voynich Manuscript**
 
 **Author:** Todd A. Vollmer (tvollmer@gmail.com)
-**Note:** This work builds upon and incorporates the fundamental research and "Industrial Manual" hypothesis pioneered by Artem Tishin ([u/Arti_Voynich_Eng](https://www.reddit.com/user/Arti_Voynich_Eng/) | [http://www.youtube.com/@VoynichEngineer](http://www.youtube.com/@VoynichEngineer)).
+**Note:** This work builds upon and incorporates the fundamental research and "Industrial Manual" hypothesis pioneered by Artem Tishin ([u/Arti_Voynich_Eng](https://www.reddit.com/user/Arti_Voynich_Eng/) | [https://www.youtube.com/@VoynichEngineer](https://www.youtube.com/@VoynichEngineer)).
+
+RECONSTRUCTIONS: We have bridged "Sabotaged Gaps" at 91-92 (Mother Lye Ratios), 97-98 (Acid/Vitriol Formulas), and 109-110 (Master Index). CURRENT STATE: Phase 3 Synthesis Complete. Visual Audits of Folios 84r, 116v, 19v-20r, and 2v-3r are integrated.
 
 ## 1. RESEARCH ABSTRACT
 
 This protocol defines the linguistic structure of the Voynich Manuscript as a functional trade-pidgin utilized by 15th-century industrial guilds. The script is identified as a "Verbose Cipher" designed for data compression and trade secrecy.
+
+**The "ZIP Archive" Analogy:**
+The text functions similarly to a 15th-century "ZIP archive." Due to the extreme cost of parchment (vellum), the author utilized a system of professional shorthand to maximize information density. Technical terms are compressed into short blocks, acting as a "parts catalog" rather than a narrative text.
+
+**The Inquisition Paradox (Security Rationale):**
+*   **Images (Visible):** Can be explained to an Inquisitor as "mythology" or "biblical allegories" (safe).
+*   **Text (Encrypted):** Contains specific chemical recipes (e.g., abortifacients, poisons, trade secrets). Direct evidence of heresy or guild theft.
+*   **Conclusion:** You encrypt the *recipe* (the evidence), not the *illustration* (the cover story).
 
 ## 2. THE FUNCTIONAL MATRIX
 
@@ -57,6 +67,22 @@ This protocol defines the linguistic structure of the Voynich Manuscript as a fu
 *   **-e** : Ambient Warmth (`Te`).
 *   **-ee** : High Heat / Boiling (`Kee`).
 *   **-eee** : Maximum Intensity / Pressure / Distillation.
+
+### 2.4 The "Constructor" Principle (Infographics)
+The botanical illustrations are not depictions of biological species but **"assembly drawings"** following a "Constructor" principle:
+*   **Root A + Flower B + Leaf C = Recipe Composition.**
+*   These are infographics for a "parts catalog." For example, a drawing might combine a specific root (ingredient 1) with a flower from another plant (ingredient 2) to visually represent the composition of a mixture (e.g., an ointment for bone fusion or wound healing).
+
+### 2.5 Case Study: The Etymology of TAR (Trade Pidgin Proof)
+The use of the root **TAR** provides linguistic evidence of a "Trade Pidgin" mixing Latin and Germanic roots, typical of Northern Italian/Alpine workshops.
+
+*   **Linguistic Roots:**
+    *   Old English: *Teru*
+    *   Old Norse: *Tjara*
+    *   German/Dutch: *Teer*
+
+*   **The Phonetic Conflict (Why TAR and not TEER?):**
+    In this cipher, `e`, `ee`, and `eee` are functional markers for **Heat** and **Boiling** (see Section 2.3). Writing `Teer` would be misread as a command to "Heat" (`Te-`) or "Boil" (`Kee`). To avoid fatal errors in the lab, the author intentionally selected the hard-vowel Germanic variant **TAR** to distinctively encode the substance (Resin/Pitch) without conflicting with thermal instructions.
 
 ## 3. CHRONOLOGICAL SCHEDULING (Industrial Calendar)
 

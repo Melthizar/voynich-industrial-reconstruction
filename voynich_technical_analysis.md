@@ -3,7 +3,7 @@
 **Industrial and Chemical Reconstruction of the Voynich Manuscript: A Comprehensive Technical Analysis**
 
 **Author:** Todd A. Vollmer (tvollmer@gmail.com)
-**Note:** This work builds upon and incorporates the fundamental research and "Industrial Manual" hypothesis pioneered by Artem Tishin ([u/Arti_Voynich_Eng](https://www.reddit.com/user/Arti_Voynich_Eng/) | [http://www.youtube.com/@VoynichEngineer](http://www.youtube.com/@VoynichEngineer)).
+**Note:** This work builds upon and incorporates the fundamental research and "Industrial Manual" hypothesis pioneered by Artem Tishin ([u/Arti_Voynich_Eng](https://www.reddit.com/user/Arti_Voynich_Eng/) | [https://www.youtube.com/@VoynichEngineer](https://www.youtube.com/@VoynichEngineer)).
 
 ## 1. EXECUTIVE SUMMARY
 
@@ -24,14 +24,20 @@ Analysis of Beinecke MS 408 indicates a highly sophisticated 15th-century indust
 
 ### SOP-004: Saponification (Industrial Soap)
 *   **Graining:** `y-sal-mic-ut` ("Salting Out"). Confirms 57v "Cloud" as soap core.
+*   **Historical Context:** Matches the **"Marseille Soap"** process where salt is added to separate pure soap from lye.
+*   **Extension (Folio 68r):** The "Separation" Diagram.
+    *   **Visual:** Shows the physical separation of solids (curds) from liquid streams.
+    *   **Decoded Labels:** Explicitly labeled with `oKaly` (Alkali) and `Sal` (Salt).
+    *   **Process:** Confirms the chemical requirement: You *must* use Salt and Alkali to grain soap (unlike cheese or wine).
 
 ### SOP-005: The "Green Lion" Acid (Vitriol) Formulation
 *   **Chemical Basis:** Dry distillation of Copper/Iron sulfates to produce leaching agents.
 
-## 3. INFRASTRUCTURE AND LOGISTICS (The "Beryn" Site)
+### SOP-006: Production Logic (Folio 58r)
+*   **Schematics:** Instructions for mixing Tallow and Oil.
+*   **Historical Context:** The specific terminology for the "Tallow/Oil mix" is consistent with **Venetian guild** records from the mid-15th century.
 
-*   **Site Identification:** Folio 116v references Beryn (`Börne` = Spring/Source).
-*   **Geographic Match:** Brixen (Bressanone), South Tyrol. Matches the 1445 "Spring Privilege" (`Börne-Recht`) granted to dyers.
+
 
 ## 4. FORENSIC SABOTAGE ANALYSIS (Intentional "Bricking")
 
@@ -75,3 +81,12 @@ This reconstruction demonstrates that the manuscript was rendered "unsolvable" b
 ### 9.4 Folios 2v - 3r (The Stabilizers)
 *   **Folio 2v (Water Lily):** Source of Mucilage for thickening.
 *   **Folio 3r (The Scaly Plant):** Diagram of Layered Alum Crystallization.
+
+### 9.5 Folio 78r (Nymphs in Pools)
+*   **Visual Identity:** Nymphs in green pools.
+*   **Engineering Reality:** A **Procedure Map** for finishing agents.
+*   **Ingredients:** The text lists specific finishing agents for ointments/medicinal baths:
+    *   **Camphor**
+    *   **Alum**
+    *   **Aloe**
+    *   **Talc**
