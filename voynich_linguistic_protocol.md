@@ -1,5 +1,5 @@
 # Linguistic Protocol
-Linguistic and Cryptographic Protocol of the Voynich Manuscript Author: Todd A. Vollmer (tvollmer@gmail.com) Note: This work builds upon and incorporates the fundamental research and "Industrial Manual" hypothesis pioneered by Artyom Lukichev (the "Voynich Engineer").
+Linguistic and Cryptographic Protocol of the Voynich Manuscript Author: Todd A. Vollmer (tvollmer@gmail.com) Note: This work builds upon and incorporates the fundamental research and "Industrial Manual" hypothesis pioneered by Artyom (The Voynich Engineer from Reddit) (u/Atri_Voynich_Eng).
 
 ## 1.  RESEARCH  ABSTRACT
 

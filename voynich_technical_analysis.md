@@ -1,5 +1,5 @@
 # Technical Analysis and Reconstruction
-Industrial and Chemical Reconstruction of the Voynich Manuscript: A Comprehensive Technical Analysis Author: Todd A. Vollmer (tvollmer@gmail.com) Note: This work builds upon and incorporates the fundamental research and "Industrial Manual" hypothesis pioneered by Artyom Lukichev (the "Voynich Engineer").
+Industrial and Chemical Reconstruction of the Voynich Manuscript: A Comprehensive Technical Analysis Author: Todd A. Vollmer (tvollmer@gmail.com) Note: This work builds upon and incorporates the fundamental research and "Industrial Manual" hypothesis pioneered by Artyom (The Voynich Engineer from Reddit) (u/Atri_Voynich_Eng).
 
 ## 1.  EXECUTIVE  SUMMARY
 
