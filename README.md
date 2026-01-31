@@ -3,6 +3,8 @@
 > **Acknowledgments & Disclaimer**
 >
 > First and foremost, a sincere thank you to **Artem Tishin ([u/Arti_Voynich_Eng](https://www.reddit.com/user/Arti_Voynich_Eng/) | [http://www.youtube.com/@VoynichEngineer](http://www.youtube.com/@VoynichEngineer))**. His foundational "Industrial Manual" hypothesis served as the spark for this entire project, inspiring me to dive deep into the research myself as a learning experience.
+>
+> **Project Nature:** This repository represents a dedicated exploration into the Voynich Manuscript. It was developed with the assistance of AI tools to aid in drafting and structuring the research. The findings presented here are open for review, discussion, and further analysis by the community.
 
 **Lead Researcher:** Todd A. Vollmer
 
@@ -51,7 +53,7 @@ The Master Decryption Matrix. This document defines:
 The comprehensive operational findings. This document includes:
 
 * **Industrial SOPs:** Step-by-step reconstructions of Woad Dyeing, Madder Dyeing, Saponification, and Acid Leaching.
-* **Site Forensics:** Identification of the "Beryn" facility in the South Tyrol Alpine corridor.
+
 * **Sabotage Analysis:** Evidence of intentional removal of folios 91-92 (Ratios) and 109-110 (Index) to protect trade secrets.
 * **Visual Audits:** High-resolution forensic analysis of "mechanical" plants and sorting stations.
 
