@@ -3,7 +3,7 @@
 **Industrial and Chemical Reconstruction of the Voynich Manuscript: A Comprehensive Technical Analysis**
 
 **Author:** Todd A. Vollmer (tvollmer@gmail.com)
-**Note:** This work builds upon and incorporates the fundamental research and "Industrial Manual" hypothesis pioneered by Artem Tishin ([u/Arti_Voynich_Eng](https://www.reddit.com/user/Arti_Voynich_Eng/)).
+**Note:** This work builds upon and incorporates the fundamental research and "Industrial Manual" hypothesis pioneered by Artem Tishin ([u/Arti_Voynich_Eng](https://www.reddit.com/user/Arti_Voynich_Eng/) | [YouTube](http://www.youtube.com/@VoynichEngineer)).
 
 ## 1. EXECUTIVE SUMMARY
 
