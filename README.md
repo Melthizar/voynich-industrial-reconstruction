@@ -62,6 +62,6 @@ This project utilizes a **Visual-Linguistic Cross-Reference** methodology. Inste
 ## **Credits & Acknowledgments**
 
 *   **Todd A. Vollmer:** Lead Researcher, Industrial Reconstruction, and Protocol Synthesis.
-*   **Artyom (The Voynich Engineer from Reddit) (u/Atri_Voynich_Eng):** Recognized for the foundational hypothesis regarding the "Constructor Principle" and the identification of Saponification visuals.
+*   **Artyom (The Voynich Engineer from Reddit) (u/Arti_Voynich_Eng):** Recognized for the foundational hypothesis regarding the "Constructor Principle" and the identification of Saponification visuals.
 
 *For academic inquiries or collaboration regarding the Beryn Site excavation data, please contact **Todd A. Vollmer** at **tvollmer@gmail.com** or open an Issue in this repository.*
