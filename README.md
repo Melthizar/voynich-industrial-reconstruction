@@ -20,9 +20,13 @@ This project is protected by copyright.
 If you use, reference, or build upon this work, you **must** include the following attribution:
 
 > **Source:** Voynich Manuscript Industrial Reconstruction
+>
 > **Author:** Todd A. Vollmer
+>
 > **Foundational Credit:** Artem Tishin (u/Arti_Voynich_Eng)
+>
 > **Contact:** tvollmer@gmail.com
+>
 > **License:** CC BY-SA 4.0 / MIT
 
 *   **Research & Content:** Licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
