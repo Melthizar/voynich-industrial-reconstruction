@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: Voynich Manuscript Industrial Reconstruction
+type: dataset
+authors:
+  - family-names: Vollmer
+    given-names: Todd A.
+    email: tvollmer@gmail.com
+  - family-names: Tishin
+    given-names: Artem
+    alias: Arti_Voynich_Eng
+message: >-
+  If you use, reference, or build upon this work, please cite it as "Voynich
+  Manuscript Industrial Reconstruction" by Todd A. Vollmer, with foundational
+  credit to Artem Tishin.
+license: CC-BY-SA-4.0
