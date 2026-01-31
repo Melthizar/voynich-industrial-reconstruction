@@ -23,7 +23,7 @@ If you use, reference, or build upon this work, you **must** include the followi
 *   **Research & Content:** Licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 *   **Code & Scripts:** Licensed under the [MIT License](LICENSE).
 
-## **Project Overview**
+## Project Overview
 
 **This research project** represents a forensic and cryptographic reconstruction of the Voynich Manuscript (Beinecke MS 408). Moving beyond traditional linguistic or mystical interpretations, this project analyzes the manuscript as a **15th-century Industrial Laboratory Manual** written in a specialized trade-pidgin (Northern Italian/Germanic blend).
 
@@ -63,5 +63,3 @@ This project utilizes a **Visual-Linguistic Cross-Reference** methodology. Inste
 
 *   **Todd A. Vollmer:** Lead Researcher, Industrial Reconstruction, and Protocol Synthesis.
 *   **Artyom (The Voynich Engineer from Reddit) ([u/Arti_Voynich_Eng](https://www.reddit.com/user/Arti_Voynich_Eng/)):** Recognized for the foundational hypothesis regarding the "Constructor Principle" and the identification of Saponification visuals.
-
-*For academic inquiries or collaboration regarding the Beryn Site excavation data, please contact **Todd A. Vollmer** at **tvollmer@gmail.com** or open an Issue in this repository.*
