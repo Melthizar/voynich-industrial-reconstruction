@@ -1,6 +1,10 @@
 # **Voynich Manuscript Industrial Reconstruction**
 
-> **Disclaimer:** This is a fun project exploring an industrial hypothesis for the Voynich Manuscript. It was created with the assistance of AI tools, including Google Gemini and ChatGPT.
+> **Acknowledgments & Disclaimer**
+>
+> First and foremost, a sincere thank you to **Artem Tishin ([u/Arti_Voynich_Eng](https://www.reddit.com/user/Arti_Voynich_Eng/))**. His foundational "Industrial Manual" hypothesis served as the spark for this entire project, inspiring me to dive deep into the research myself as a learning experience.
+>
+> **Project Nature:** This repository represents a dedicated exploration into the Voynich Manuscript. It was developed with the assistance of advanced AI tools, including Google Gemini and ChatGPT, to aid in drafting and structuring the research. The findings presented here are open for review, discussion, and further analysis by the community.
 
 **Lead Researcher:** Todd A. Vollmer
 
