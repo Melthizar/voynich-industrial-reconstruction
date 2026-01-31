@@ -17,6 +17,7 @@ If you use, reference, or build upon this work, you **must** include the followi
 
 > **Source:** Voynich Manuscript Industrial Reconstruction
 > **Author:** Todd A. Vollmer
+> **Foundational Credit:** Artem Tishin (u/Arti_Voynich_Eng)
 > **Contact:** tvollmer@gmail.com
 > **License:** CC BY-SA 4.0 / MIT
 
