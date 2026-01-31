@@ -53,7 +53,6 @@ The Master Decryption Matrix. This document defines:
 The comprehensive operational findings. This document includes:
 
 * **Industrial SOPs:** Step-by-step reconstructions of Woad Dyeing, Madder Dyeing, Saponification, and Acid Leaching.
-
 * **Sabotage Analysis:** Evidence of intentional removal of folios 91-92 (Ratios) and 109-110 (Index) to protect trade secrets.
 * **Visual Audits:** High-resolution forensic analysis of "mechanical" plants and sorting stations.
 
